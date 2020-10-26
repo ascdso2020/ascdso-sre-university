@@ -2,6 +2,7 @@
 
 - (Book) Site Reliability Engineering - https://landing.google.com/sre/book/index.html
 - (Book) Site Reliability Workbook - https://landing.google.com/sre/workbook/toc/
+- (Book) Building Secure and Reliable Systems - https://landing.google.com/sre/resources/foundationsandprinciples/srs-book/
 - (Course) Intro to DevOps - https://br.udacity.com/course/intro-to-devops--ud611/
 - (Course) Google Cloud Platform for Systems Operations - https://www.coursera.org/specializations/gcp-sysops
 - (Course) Measuring and Managing Reliability - https://www.coursera.org/learn/site-reliability-engineering-slos
@@ -58,7 +59,7 @@
 ## Cluster Management
 
 # Kubernetes 
-- (Tutorial) Kubernetes Bootcamp - https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html
+- (Tutorial) Kubernetes Bootcamp  - https://kubernetes.io/docs/tutorials/kubernetes-basics/
 - (Course) Scalable Microservices with Kubernetes - https://br.udacity.com/course/scalable-microservices-with-kubernetes--ud615/
 
 ## Cloud
@@ -75,7 +76,9 @@
 
 # DevOps | SRE Roadmap
 
-<img src="/images/devops_roadmap.png">  
+
+
+<img src="https://github.com/kamranahmedse/developer-roadmap/blob/master/img/devops.png">
 
 # Further Reading
 
