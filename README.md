@@ -36,6 +36,8 @@
 
 - (Webinar) https://www.youtube.com/watch?v=Q_H4hrUez80 (Go Language for Ops and Site Reliability Engineering)
 
+- (Hands On) https://gopherlabs.kubedaily.com/
+
 # Production Web App
 - (Tutorial) https://www.digitalocean.com/community/tutorial_series/building-for-production-web-applications
 
@@ -69,10 +71,13 @@
 
 ## Post-Mortem
 
-## Blogs
+Post-Mortem Template: https://sre.google/sre-book/example-postmortem/
+
+
+## Websites
 
 - http://highscalability.com
-- https://medium.com/production-ready
+- https://sreweekly.com
 
 # DevOps | SRE Roadmap
 
